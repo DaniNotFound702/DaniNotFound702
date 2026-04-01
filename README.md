@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DaniNotFound</h1>
-- 🔭 I’m currently working on **Gabriel tts**
+- 🔭 I’m currently working on Gabriel from ultrakill tts
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniNotFound702](https://github.com/DaniNotFound702)
 
